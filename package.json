@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "brain.js": "^1.2.2"
+  },
+  "name": "brain.retro.js",
+  "version": "1.0.0",
+  "description": "Run brain.js... backward!",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrainJS/brain.retro.js.git"
+  },
+  "keywords": [
+    "neural",
+    "network",
+    "backward"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BrainJS/brain.retro.js/issues"
+  },
+  "homepage": "https://github.com/BrainJS/brain.retro.js#readme"
+}
